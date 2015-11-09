@@ -22,4 +22,5 @@ The first one is Relationship between Classes which shows the general pictures o
 
 The second one is Structure in each classes including more detail about the instructors 
 (C besides circle green icon), instance variables (square red icon) and methods (circle green icon) presented in several boxes.
+
 ![Classes Relationship](https://farm1.staticflickr.com/758/22487663777_3216fe5e36.jpg)
