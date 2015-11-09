@@ -1,0 +1,17 @@
+||||||||HIGH SCORE BOARD||||||||
+--------------------------------
+Name		Score
+Anh Pham	999999
+Hieu Nguyen	999999
+Rubing Mao	999999
+Anh Pham	0
+Anh Pham	12
+Anh Pham	43
+Anh Pham	43
+as		31
+alo		41
+a		18
+Anh Pham	22
+Hello		59
+Anh Pham	2
+Anh Pham	43
