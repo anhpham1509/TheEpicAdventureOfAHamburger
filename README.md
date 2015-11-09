@@ -1,7 +1,7 @@
 # The Epic Adventure of A Hamburger Game
 _Members:_ Anh Pham, Hieu Nguyen 
 
-Mision: Building a text-based game by Java.
+Mission: Building a text-based game by Java.
 
 ##Idea
 The idea behind The Epic Adventure of A Hamburger is that the Princess of Burger Kingdom is kidnapped by an evil taco. The evil taco wants to know the secret recipe of a delicious hamburger, and wants to find out why the hamburger is more popular than taco. King Burger summons all the warrior, and asks them to bring back his beloved daughter, and who will be able to take back the princess, the king would make him a knight and reward him with gold. Hieu came up with this idea because of his empty stomach in a beautiful morning. After he shared his idea, the team members agreed to choose this idea as the storyline. The Epic Adventure of A Hamburger starts with the player takes the role of Bread, who is a warrior. Player can choose to go to fight the evil taco in the beginning of the game, or he can go to look for his friends (Lettuce, Tomato, Cheese, Ham, and Bacon) and make up a team, then go to fight the Taco. Other friends of Bread, each of them will increase the chance for him to win the game.
